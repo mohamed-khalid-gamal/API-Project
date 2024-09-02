@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\courses\\ITI\\webapi\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|f:\\courses\\iti\\webapi\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|f:\\courses\\iti\\webapi\\webapplication1\\webapplication1\\migrations\\20240902090614_pp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240902090614_pp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|f:\\courses\\iti\\webapi\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|f:\\courses\\iti\\webapi\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|f:\\courses\\iti\\webapi\\webapplication1\\webapplication1\\dto\\employeewithdepartmentdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\employeewithdepartmentdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|f:\\courses\\iti\\webapi\\webapplication1\\webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|f:\\courses\\iti\\webapi\\webapplication1\\webapplication1\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|f:\\courses\\iti\\webapi\\webapplication1\\webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|f:\\courses\\iti\\webapi\\webapplication1\\webapplication1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|f:\\courses\\iti\\webapi\\webapplication1\\webapplication1\\dto\\deptdtopost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\deptdtopost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|f:\\courses\\iti\\webapi\\webapplication1\\webapplication1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|f:\\courses\\iti\\webapi\\webapplication1\\webapplication1\\dto\\empdtopost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\empdtopost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|f:\\courses\\iti\\webapi\\webapplication1\\webapplication1\\dto\\departmentwithemplyeesdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\departmentwithemplyeesdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|f:\\courses\\iti\\webapi\\webapplication1\\webapplication1\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|f:\\courses\\iti\\webapi\\webapplication1\\webapplication1\\dto\\logdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56918A1F-55D2-4AD6-B129-0996E04CCB80}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\logdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 288,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240902090614_pp.cs",
+              "DocumentMoniker": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\Migrations\\20240902090614_pp.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240902090614_pp.cs",
+              "ToolTip": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\Migrations\\20240902090614_pp.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240902090614_pp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:06:14.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebApplication1",
+              "DocumentMoniker": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T07:52:48.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\EmployeeController.cs",
+              "ToolTip": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAgwHQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:32:24.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeWithDepartmentDataDTO.cs",
+              "DocumentMoniker": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\DTO\\EmployeeWithDepartmentDataDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\EmployeeWithDepartmentDataDTO.cs",
+              "ToolTip": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\DTO\\EmployeeWithDepartmentDataDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\EmployeeWithDepartmentDataDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T03:47:10.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAQwGYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:17:34.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T13:53:29.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\DepartmentController.cs",
+              "ToolTip": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAjwDMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T13:21:47.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwE4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T11:19:48.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeptDTOPost.cs",
+              "DocumentMoniker": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\DTO\\DeptDTOPost.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\DeptDTOPost.cs",
+              "ToolTip": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\DTO\\DeptDTOPost.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\DeptDTOPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:05:13.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Employee.cs",
+              "ToolTip": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T03:47:19.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Department.cs",
+              "DocumentMoniker": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Department.cs",
+              "ToolTip": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\Models\\Department.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T03:47:15.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmpDTOPost.cs",
+              "DocumentMoniker": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\DTO\\EmpDTOPost.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\EmpDTOPost.cs",
+              "ToolTip": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\DTO\\EmpDTOPost.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\EmpDTOPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:16:12.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartmentWithEmplyeesDataDTO.cs",
+              "DocumentMoniker": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\DTO\\DepartmentWithEmplyeesDataDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\DepartmentWithEmplyeesDataDTO.cs",
+              "ToolTip": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\DTO\\DepartmentWithEmplyeesDataDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\DepartmentWithEmplyeesDataDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T03:47:09.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LogDTO.cs",
+              "DocumentMoniker": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\DTO\\LogDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\LogDTO.cs",
+              "ToolTip": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\DTO\\LogDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\LogDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T03:47:12.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ApplicationUser.cs",
+              "ToolTip": "F:\\courses\\ITI\\webapi\\WebApplication1\\WebApplication1\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T03:47:15.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
